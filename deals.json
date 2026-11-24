@@ -1,26 +1,6 @@
 {
   "deals": [
     {
-      "id": "239a10cd-0d1a-43a2-83e2-7b594a7bae79",
-      "title": "????",
-      "category": "??",
-      "platform": "??",
-      "price": 9.9,
-      "originalPrice": 19.9,
-      "save": 10,
-      "deadline": "??",
-      "summary": "???",
-      "steps": [
-        "????"
-      ],
-      "notes": [
-        "?????"
-      ],
-      "suitable": "??",
-      "createdAt": "2026-11-24T06:07:34.447Z",
-      "updatedAt": "2026-11-24T06:07:34.447Z"
-    },
-    {
       "id": "deal-home-clean",
       "title": "家居清洁组合装，到手 ¥29.9",
       "category": "电商",
@@ -97,5 +77,5 @@
       "updatedAt": "2026-11-24T08:20:00+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T06:07:34.447Z"
+  "updatedAt": "2026-11-24T06:07:36.226Z"
 }
